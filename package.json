@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "core-js": "^3.26.1",
-    "eslint-plugin-import": "^2.26.0"
+    "eslint-plugin-import": "^2.26.0",
+    "html-webpack-plugin": "^5.5.0"
   }
 }
