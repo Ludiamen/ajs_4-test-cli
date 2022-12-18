@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
-    "lint": "eslint .",
-    "build": "webpack --config webpack.config.js"
+    "lint": "eslint ."
   },
   "author": "",
   "license": "ISC",
