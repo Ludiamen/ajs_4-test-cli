@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --coverage",
     "lint": "eslint .",
-    "build": "webpack --mode development"
+    "build": "webpack --mode production"
   },
   "author": "",
   "license": "ISC",
@@ -27,5 +27,9 @@
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.7.2",
     "npm": "^9.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ludiamen/ajs_4-test-cli.git"
   }
 }
